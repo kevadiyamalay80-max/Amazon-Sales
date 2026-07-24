@@ -92,7 +92,6 @@ Sales-Analytics-Dashboard/
 ├── SQL/
 ├── Python/
 ├── PowerBI/
-├── Dashboard Screenshot/
 └── README.md
 ```
 
