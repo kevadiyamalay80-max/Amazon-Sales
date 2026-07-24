@@ -35,7 +35,6 @@ Created additional columns to improve analysis:
 - 📅 Month
 - 📆 Year
 - 🚚 Shipping Days
-- 💹 Profit Margin (%)
 
 ---
 
