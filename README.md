@@ -1,7 +1,6 @@
 # 📊 Sales Analytics Dashboard
 
-An end-to-end Data Analytics project built using **Excel, SQL, Python (Pandas), and Power BI**.
-This project transforms raw sales data into meaningful business insights through data cleaning, analysis, visualization, and an interactive dashboard.
+An end-to-end Data Analytics project built using **Excel, SQL, Python (Pandas), and Power BI**.This project transforms raw sales data into meaningful business insights through data cleaning, analysis, visualization, and an interactive dashboard.
 
 ---
 
@@ -68,6 +67,12 @@ Business Insights
 - 📂 Category-wise Sales
 - 🏆 Top 10 Products
 - 🎛️ Interactive Filters (Year, Month, Category, Geography)
+
+---
+
+## 📸 Dashboard Preview
+
+ "C:\Users\hp\Downloads\amzon sales dashboard.png"
 
 ---
 
