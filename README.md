@@ -72,7 +72,7 @@ Business Insights
 
 ## 📸 Dashboard Preview
 
- "C:\Users\hp\Downloads\amzon sales dashboard.png"
+"D:\amazon sales\amzon sales dashboard.png"
 
 ---
 
